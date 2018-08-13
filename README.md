@@ -31,7 +31,7 @@ U3                       | SIM1-2403 SIL4  |   1    | -
 K1, K2                   | G6S-2 24V       |   2    | -
 X1                       | WAGO 250-204    |   1    | -
 X2                       | WAGO 250-404    |   1    | siehe [Issue #1](https://github.com/stan23/HM-LC-Bl1-FM-DC/issues/1)
-Verbinder zu U2          | BL 1X20G 2,54   |   1    | -
+Verbinder zu U2          | SL 1X20G 2,00   |   1    | -
 Verbinder zu U2          | MPE 156-1-032   |   1    | optional
 
  
