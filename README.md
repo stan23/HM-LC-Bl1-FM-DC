@@ -3,12 +3,14 @@ Nachbau HM-LC-Bl1-FM Rollladenaktor für Gleichstrommotoren (z.B. Plissee)
 
 Er verhält sich wie ein Rolloaktor, treibt aber einen 24 V Gleichstrommotor. Dieser wird je nach Fahrtrichtung umgepolt.
 
+Dies basiert auf der hervorragenden Arbeit von [pa-pa](https://github.com/pa-pa/AskSinPP),  [Jérôme](https://github.com/jp112sdl/Beispiel_AskSinPP) und micha68.
+
 
 ## Hardware
 
 ### Bauteile
 
-Reichelt ([fertige Liste](https://www.reichelt.de/my/1495010))
+#### Reichelt
 
 Bauteil                  | Bestellnummer   | Anzahl | Kommentar
 ------------------------ | --------------- | ------ | ---------
@@ -26,12 +28,17 @@ U1                       | ATMEGA 328P-AU  |   1    | -
 U3                       | SIM1-2403 SIL4  |   1    | -
 K1, K2                   | G6S-2 24V       |   2    | -
 X1                       | WAGO 250-204    |   1    | -
-X2                       | WAGO 250-404    |   1    | stan23/HM-LC-Bl1-FM-DC#1
+X2                       | WAGO 250-404    |   1    | siehe [Issue #1](https://github.com/stan23/HM-LC-Bl1-FM-DC/issues/1)
 Verbinder zu U2          | BL 1X20G 2,54   |   1    | -
 Verbinder zu U2          | MPE 156-1-032   |   1    | optional
 
-Sonstiges:
-CC1101 Funkmodul 868MHz (ca. 2,60 EUR bei [eBay](https://www.ebay.de/itm/272455136087))
+[Bestellliste](https://www.reichelt.de/my/1495010)
+ 
+#### Sonstiges
+
+Bauteil | Bestellnummer            | Anzahl | Kommentar
+------- | ------------------------ | ------ | ---------
+U2      | CC1101 Funkmodul 868MHz  |   1    | z.B. [eBay](https://www.ebay.de/itm/272455136087)
 
 
 ### Programmieradapter
