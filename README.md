@@ -12,6 +12,8 @@ Dies basiert auf der hervorragenden Arbeit von [pa-pa](https://github.com/pa-pa/
 
 #### Reichelt
 
+[Bestellliste](https://www.reichelt.de/my/1495010)
+
 Bauteil                  | Bestellnummer   | Anzahl | Kommentar
 ------------------------ | --------------- | ------ | ---------
 C6                       | X5R-G0603 10/6  |   1    | -
@@ -20,7 +22,7 @@ C7                       | TAJ 3528 3,3/35 |   1    |  -
 R22, R24                 | RND 0603 1 47   |   1    | -
 R2                       | RND 0603 1 1,5K |   2    | -
 R11, R12                 | RND 0603 1 2,7K |   2    | -
-R21, R23                 | RND 0603 1 10K  |   2    | -
+R1, R21, R23             | RND 0603 1 10K  |   3    | -
 D1                       | SLO SMD-Y0603-0 |   1    | -
 D2, D11, D12             | 1N 4148 WS      |   3    | -
 Q1, Q2                   | BC 817 NXP      |   2    | -
@@ -32,7 +34,6 @@ X2                       | WAGO 250-404    |   1    | siehe [Issue #1](https://g
 Verbinder zu U2          | BL 1X20G 2,54   |   1    | -
 Verbinder zu U2          | MPE 156-1-032   |   1    | optional
 
-[Bestellliste](https://www.reichelt.de/my/1495010)
  
 #### Sonstiges
 
