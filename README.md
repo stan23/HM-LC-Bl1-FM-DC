@@ -10,25 +10,25 @@ Er verhält sich wie ein Rolloaktor, treibt aber einen 24 V Gleichstrommotor. Di
 
 Reichelt ([fertige Liste](https://www.reichelt.de/my/1495010))
 
-Bestellnummer   | Anzahl | Kommentar
---------------- | ------ | ---------
-X5R-G0603 10/6  |   1    | -
-X7R-G0603 100N  |   5    | -
-TAJ 3528 3,3/35 |   1    |  -
-RND 0603 1 47   |   2    | -
-RND 0603 1 1,5K |   2    | -
-RND 0603 1 2,7K |   2    | -
-RND 0603 1 10K  |   2    | -
-SLO SMD-Y0603-0 |   1    | -
-1N 4148 WS      |   3    | -
-BC 817 NXP      |   2    | -
-ATMEGA 328P-AU  |   1    | -
-SIM1-2403 SIL4  |   1    | -
-G6S-2 24V       |   2    | -
-WAGO 250-204    |   1    | -
-WAGO 250-404    |   1    | -
-BL 1X20G 2,54   |   1    | -
-MPE 156-1-032   |   1    | optional
+Bauteil                  | Bestellnummer   | Anzahl | Kommentar
+------------------------ | --------------- | ------ | ---------
+C6                       | X5R-G0603 10/6  |   1    | -
+C1, C2, C3, C8, C21, C22 | X7R-G0603 100N  |   6    | -
+C7                       | TAJ 3528 3,3/35 |   1    |  -
+R22, R24                 | RND 0603 1 47   |   1    | -
+R2                       | RND 0603 1 1,5K |   2    | -
+R11, R12                 | RND 0603 1 2,7K |   2    | -
+R21, R23                 | RND 0603 1 10K  |   2    | -
+D1                       | SLO SMD-Y0603-0 |   1    | -
+D2, D11, D12             | 1N 4148 WS      |   3    | -
+Q1, Q2                   | BC 817 NXP      |   2    | -
+U1                       | ATMEGA 328P-AU  |   1    | -
+U3                       | SIM1-2403 SIL4  |   1    | -
+K1, K2                   | G6S-2 24V       |   2    | -
+X1                       | WAGO 250-204    |   1    | -
+X2                       | WAGO 250-404    |   1    | -
+Verbinder zu U2          | BL 1X20G 2,54   |   1    | -
+Verbinder zu U2          | MPE 156-1-032   |   1    | optional
 
 Sonstiges:
 CC1101 Funkmodul 868MHz (ca. 2,60 EUR bei [eBay](https://www.ebay.de/itm/272455136087))
