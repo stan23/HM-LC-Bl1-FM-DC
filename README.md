@@ -65,3 +65,13 @@ Aus der Arduino IDE, für ATmega328P, 3,3 V, 8 MHz
 https://github.com/pa-pa/AskSinPP/tree/master/examples/HM-LC-Bl1-FM
 
 
+## Bilder
+
+![nackte Platine](https://github.com/stan23/HM-LC-Bl1-FM-DC/blob/master/Bilder/IMG_20180723_180027.jpg)
+![](https://github.com/stan23/HM-LC-Bl1-FM-DC/blob/master/Bilder/IMG_20180727_170213%20(2).jpg)
+![](https://github.com/stan23/HM-LC-Bl1-FM-DC/blob/master/Bilder/IMG_20180727_170251%20(2).jpg)
+![](https://github.com/stan23/HM-LC-Bl1-FM-DC/blob/master/Bilder/IMG_20180727_170315%20(2).jpg)
+![](https://github.com/stan23/HM-LC-Bl1-FM-DC/blob/master/Bilder/IMG_20180727_170405%20(2).jpg)
+![](https://github.com/stan23/HM-LC-Bl1-FM-DC/blob/master/Bilder/IMG_20180727_170424%20(2).jpg)
+![](https://github.com/stan23/HM-LC-Bl1-FM-DC/blob/master/Bilder/IMG_20180727_170841.jpg)
+![](https://github.com/stan23/HM-LC-Bl1-FM-DC/blob/master/Bilder/IMG_20180727_170928.jpg)
