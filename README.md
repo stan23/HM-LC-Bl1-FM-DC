@@ -1,10 +1,4 @@
-[![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-
-
-# HM-LC-Bl1-FM-DC
+# HM-LC-Bl1-FM-DC     [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)     [![GitHub issues](https://img.shields.io/github/issues/stan23/HM-LC-Bl1-FM-DC.svg)](https://github.com/stan23/HM-LC-Bl1-FM-DC/issues)
 Nachbau HM-LC-Bl1-FM Rollladenaktor für Gleichstrommotoren (z.B. Plissee)
 
 Er verhält sich wie ein Rolloaktor, treibt aber einen 24 V Gleichstrommotor. Dieser wird je nach Fahrtrichtung umgepolt.
@@ -81,3 +75,10 @@ https://github.com/pa-pa/AskSinPP/tree/master/examples/HM-LC-Bl1-FM
 ![](https://github.com/stan23/HM-LC-Bl1-FM-DC/blob/master/Bilder/IMG_20180727_170424%20(2).jpg)
 ![](https://github.com/stan23/HM-LC-Bl1-FM-DC/blob/master/Bilder/IMG_20180727_170841.jpg)
 ![](https://github.com/stan23/HM-LC-Bl1-FM-DC/blob/master/Bilder/IMG_20180727_170928.jpg)
+
+
+
+[![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
