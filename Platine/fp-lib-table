@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Wago-P-250)(type KiCad)(uri "$(KIPRJMOD)/libraries/Wago-P-250.pretty")(options "")(descr ""))
+  (lib (name am1s)(type KiCad)(uri "$(KIPRJMOD)/libraries/am1s.pretty")(options "")(descr ""))
+  (lib (name CC1101_module)(type KiCad)(uri "$(KIPRJMOD)/libraries/CC1101_module.pretty")(options "")(descr ""))
+  (lib (name relay)(type KiCad)(uri "$(KIPRJMOD)/libraries/relay.pretty")(options "")(descr ""))
+)
