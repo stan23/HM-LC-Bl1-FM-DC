@@ -1,7 +1,7 @@
 # HM-LC-Bl1-FM-DC     [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)     [![GitHub issues](https://img.shields.io/github/issues/stan23/HM-LC-Bl1-FM-DC.svg)](https://github.com/stan23/HM-LC-Bl1-FM-DC/issues)
 Nachbau HM-LC-Bl1-FM Rollladenaktor für Gleichstrommotoren (z.B. Plissee)
 
-Er verhält sich wie ein Rolloaktor, treibt aber einen 24 V Gleichstrommotor. Dieser wird je nach Fahrtrichtung umgepolt.
+Er verhält sich wie ein Rolloaktor, treibt aber einen 12/24 V Gleichstrommotor. Dieser wird je nach Fahrtrichtung umgepolt.
 
 Dies basiert auf der hervorragenden Arbeit von [pa-pa](https://github.com/pa-pa/AskSinPP),  [Jérôme](https://github.com/jp112sdl/Beispiel_AskSinPP) und micha68.
 
@@ -27,8 +27,10 @@ D1                       | SLO SMD-Y0603-0 |   1    | -
 D2, D11, D12             | 1N 4148 WS      |   3    | -
 Q1, Q2                   | BC 817 NXP      |   2    | -
 U1                       | ATMEGA 328P-AU  |   1    | -
-U3                       | SIM1-2403 SIL4  |   1    | -
-K1, K2                   | G6S-2 24V       |   2    | -
+U3                       | SIM1-2403 SIL4  |   1    | für 24 V
+U3                       | SIM1-1203 SIL4  |   1    | alternativ für 12 V
+K1, K2                   | G6S-2 24V       |   2    | für 24 V
+K1, K2                   | G6S-2 12V       |   2    | alternativ für 12 V
 X1                       | WAGO 250-204    |   1    | -
 X2                       | WAGO 250-404    |   1    | siehe [Issue #1](https://github.com/stan23/HM-LC-Bl1-FM-DC/issues/1)
 Verbinder zu U2          | SL 1X20G 2,00   |   1    | -
