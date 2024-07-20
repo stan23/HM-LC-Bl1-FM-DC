@@ -5,6 +5,7 @@ Er verhält sich wie ein Rolloaktor, treibt aber einen 12/24 V Gleichstrommotor.
 
 Dies basiert auf der hervorragenden Arbeit von [pa-pa](https://github.com/pa-pa/AskSinPP),  [Jérôme](https://github.com/jp112sdl/Beispiel_AskSinPP) und micha68.
 
+[Link zur neueren Version der Platine](https://github.com/stan23/myPCBs/tree/master/HM-LC-Bl1-FM-DC)
 
 ## Hardware
 
